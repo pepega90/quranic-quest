@@ -1,4 +1,6 @@
-# Req
+# Quranic Quest
+
+<img src="https://github.com/pepega90/quranic-quest/blob/main/preview.gif" />
 
 To start your Phoenix server:
 
